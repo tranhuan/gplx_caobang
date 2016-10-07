@@ -1,0 +1,121 @@
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.GPLX.VPDK.exe.config
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.GPLX.VPDK.exe
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.GPLX.VPDK.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\FPT.GPLX.Controls.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csprojResolveAssemblyReference.cache
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmMain.resources
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Properties.Resources.resources
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csproj.GenerateResource.Cache
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.exe
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmCauHinhHeThong.resources
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\EntityFramework.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\EntityFramework.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.CHINHANH.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.SOGTVT.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.CHINHANH.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.SOGTVT.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.CHINHANH.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.DBConvert.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.CHINHANH.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.DBConvert.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.DBMapping.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\VT.VPDK.DBMapping.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\FreeImageNET.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmInfoVersion.resources
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmRaSoatThongTin.resources
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe.config
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\FPT.GPLX.Controls.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\FreeImageNET.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\log4net.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe.config
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.exe
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csprojResolveAssemblyReference.cache
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmCauHinhHeThong.resources
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmInfoVersion.resources
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmMain.resources
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmRaSoatThongTin.resources
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Properties.Resources.resources
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csproj.GenerateResource.Cache
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\FreeImageNET.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.xml
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe.config
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.exe
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe.config
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.exe
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.exe
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.GPLX.VPDK.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\FreeImageNET.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\Viettel.ReadJP2.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.DataAccess.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.CHINHANH.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBConvert.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.DBMapping.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\VT.VPDK.SOGTVT.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.xml
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\bin\PM.GPLX.VPDK\EntityFramework.SqlServer.xml
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csprojResolveAssemblyReference.cache
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmCauHinhHeThong.resources
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmInfoVersion.resources
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmMain.resources
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Presenation.frmRaSoatThongTin.resources
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.Properties.Resources.resources
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.GPLX.VPDK\obj\Debug\VT.GPLX.VPDK.csproj.GenerateResource.Cache

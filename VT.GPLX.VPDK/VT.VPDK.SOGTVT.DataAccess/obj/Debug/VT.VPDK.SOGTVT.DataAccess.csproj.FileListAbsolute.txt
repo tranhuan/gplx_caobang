@@ -1,0 +1,31 @@
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.csprojResolveAssemblyReference.cache
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\EntityFramework.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\EntityFramework.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.DataAccess.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.DBMapping.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\bin\Debug\VT.VPDK.SOGTVT.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.csprojResolveAssemblyReference.cache
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\VT.VPDK.SOGTVT.DataAccess\obj\Debug\VT.VPDK.SOGTVT.DataAccess.pdb

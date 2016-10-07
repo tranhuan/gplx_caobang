@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VT.GPLX.VPDK.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FromFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.28.56\Huan\ANHCD</Value>
+    </Setting>
+    <Setting Name="destFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.28.55\Huan\ANH_CD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

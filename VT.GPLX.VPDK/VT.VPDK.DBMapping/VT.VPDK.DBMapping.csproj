@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54B72897-5D9A-4AED-BCC7-656B3DCBFEC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VT.VPDK.DBMapping</RootNamespace>
+    <AssemblyName>VT.VPDK.DBMapping</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ModelsOther\NguoiLX_NguoiLX_HoSo.cs" />
+    <Compile Include="Models\DM_DonViGTVT.cs" />
+    <Compile Include="Models\DM_DVHC.cs" />
+    <Compile Include="Models\DM_GiayTo.cs" />
+    <Compile Include="Models\DM_HangDT.cs" />
+    <Compile Include="Models\DM_HangGPLX.cs" />
+    <Compile Include="Models\DM_HTCapGPLX.cs" />
+    <Compile Include="Models\DM_LoaiDV.cs" />
+    <Compile Include="Models\DM_LoaiHSo.cs" />
+    <Compile Include="Models\DM_LoaiHSo_GiayTo.cs" />
+    <Compile Include="Models\DM_MonHoc.cs" />
+    <Compile Include="Models\DM_NoiDungSH.cs" />
+    <Compile Include="Models\DM_QuocTich.cs" />
+    <Compile Include="Models\DM_TrangThai.cs" />
+    <Compile Include="Models\DVCC3_GPLX.cs" />
+    <Compile Include="Models\DVCC3_HoSo.cs" />
+    <Compile Include="Models\KhoaHoc.cs" />
+    <Compile Include="Models\KySH.cs" />
+    <Compile Include="Models\Mapping\DM_DonViGTVTMap.cs" />
+    <Compile Include="Models\Mapping\DM_DVHCMap.cs" />
+    <Compile Include="Models\Mapping\DM_GiayToMap.cs" />
+    <Compile Include="Models\Mapping\DM_HangDTMap.cs" />
+    <Compile Include="Models\Mapping\DM_HangGPLXMap.cs" />
+    <Compile Include="Models\Mapping\DM_HTCapGPLXMap.cs" />
+    <Compile Include="Models\Mapping\DM_LoaiDVMap.cs" />
+    <Compile Include="Models\Mapping\DM_LoaiHSoMap.cs" />
+    <Compile Include="Models\Mapping\DM_LoaiHSo_GiayToMap.cs" />
+    <Compile Include="Models\Mapping\DM_MonHocMap.cs" />
+    <Compile Include="Models\Mapping\DM_NoiDungSHMap.cs" />
+    <Compile Include="Models\Mapping\DM_QuocTichMap.cs" />
+    <Compile Include="Models\Mapping\DM_TrangThaiMap.cs" />
+    <Compile Include="Models\Mapping\DVCC3_GPLXMap.cs" />
+    <Compile Include="Models\Mapping\DVCC3_HoSoMap.cs" />
+    <Compile Include="Models\Mapping\KhoaHocMap.cs" />
+    <Compile Include="Models\Mapping\KySHMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLXHS_GiayToMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLXMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLX_GPLXMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLX_HoSoMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLX_Hoso_DichVuMap.cs" />
+    <Compile Include="Models\Mapping\NguoiLX_Hoso_QuocteMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_ChucNangMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NguoiDungMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NhatKyLoiMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NhomCNMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NhomNSDMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NSD_NhomNSDMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_NSD_Quyen_CNMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_QuyenMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_Quyen_CNMap.cs" />
+    <Compile Include="Models\Mapping\QTHT_ThamSoHTMap.cs" />
+    <Compile Include="Models\Mapping\sysdiagramMap.cs" />
+    <Compile Include="Models\Mapping\TRANS_CLI_HangDoiGuiMap.cs" />
+    <Compile Include="Models\Mapping\TRANS_CLI_HangDoiNhanMap.cs" />
+    <Compile Include="Models\Mapping\TRANS_CLI_NhatKyGuiMap.cs" />
+    <Compile Include="Models\Mapping\TRANS_CLI_NhatKyNhanMap.cs" />
+    <Compile Include="Models\Mapping\TRANS_LoaiDuLieuMap.cs" />
+    <Compile Include="Models\NguoiLX.cs" />
+    <Compile Include="Models\NguoiLXHS_GiayTo.cs" />
+    <Compile Include="Models\NguoiLX_GPLX.cs" />
+    <Compile Include="Models\NguoiLX_HoSo.cs" />
+    <Compile Include="Models\NguoiLX_Hoso_DichVu.cs" />
+    <Compile Include="Models\NguoiLX_Hoso_Quocte.cs" />
+    <Compile Include="Models\QTHT_ChucNang.cs" />
+    <Compile Include="Models\QTHT_NguoiDung.cs" />
+    <Compile Include="Models\QTHT_NhatKyLoi.cs" />
+    <Compile Include="Models\QTHT_NhomCN.cs" />
+    <Compile Include="Models\QTHT_NhomNSD.cs" />
+    <Compile Include="Models\QTHT_NSD_NhomNSD.cs" />
+    <Compile Include="Models\QTHT_NSD_Quyen_CN.cs" />
+    <Compile Include="Models\QTHT_Quyen.cs" />
+    <Compile Include="Models\QTHT_Quyen_CN.cs" />
+    <Compile Include="Models\QTHT_ThamSoHT.cs" />
+    <Compile Include="Models\sysdiagram.cs" />
+    <Compile Include="Models\TRANS_CLI_HangDoiGui.cs" />
+    <Compile Include="Models\TRANS_CLI_HangDoiNhan.cs" />
+    <Compile Include="Models\TRANS_CLI_NhatKyGui.cs" />
+    <Compile Include="Models\TRANS_CLI_NhatKyNhan.cs" />
+    <Compile Include="Models\TRANS_LoaiDuLieu.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

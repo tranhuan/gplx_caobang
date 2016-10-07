@@ -1,0 +1,41 @@
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\FreeImageNET.dll
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+D:\Huan\PrintGPLXQT_20150728\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.csprojResolveAssemblyReference.cache
+C:\Huan\Project\GPLX_QUOCTE\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\GPLX_QUOCTE\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\GPLX_QUOCTE\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\FreeImageNET.dll
+C:\Huan\Project\GPLX_QUOCTE\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\GPLX_QUOCTE\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+F:\tcdb\GPLX quoc te\gplx-qt\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+F:\tcdb\GPLX quoc te\gplx-qt\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+F:\tcdb\GPLX quoc te\gplx-qt\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\FreeImageNET.dll
+F:\tcdb\GPLX quoc te\gplx-qt\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+F:\tcdb\GPLX quoc te\gplx-qt\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\GPLX_QUOCTE_20151021\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\GPLX_QUOCTE_20151021\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\GPLX_QUOCTE_20151021\Viettel.InGPLX\Viettel.ReadJP2\bin\Debug\FreeImageNET.dll
+C:\Huan\Project\GPLX_QUOCTE_20151021\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\GPLX_QUOCTE_20151021\Viettel.InGPLX\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+C:\Huan\Project\Convert VPDK\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.csprojResolveAssemblyReference.cache
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+C:\Users\HuanNga\Desktop\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+C:\Users\Admin\Desktop\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\bin\Debug\Viettel.ReadJP2.pdb
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.csprojResolveAssemblyReference.cache
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.dll
+D:\USER\Huấn\VPDK_20161006\chuong trinh 20160914\SOURCE\VT.GPLX.VPDK\Viettel.ReadJP2\obj\Debug\Viettel.ReadJP2.pdb

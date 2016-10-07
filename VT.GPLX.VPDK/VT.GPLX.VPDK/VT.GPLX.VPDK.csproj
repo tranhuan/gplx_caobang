@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE50B617-5517-4EFB-8B09-D05A0F593FF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VT.GPLX.VPDK</RootNamespace>
+    <AssemblyName>VT.GPLX.VPDK</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\PM.GPLX.VPDK\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vdi_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FPT.GPLX.Controls">
+      <HintPath>..\..\FPT.GPLX.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\AutoCompleteTextboxOfController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Mapping\EFMappingEntities.cs" />
+    <Compile Include="Mapping\MappingNguoiLX.cs" />
+    <Compile Include="Mapping\MappingNguoiLXHS_GiayTo.cs" />
+    <Compile Include="Mapping\MappingNguoiLX_HoSo.cs" />
+    <Compile Include="Mapping\MappingNguoiLX_HoSo_DichVu.cs" />
+    <Compile Include="Mapping\NewGeneric.cs" />
+    <Compile Include="Presenation\frmCauHinhHeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presenation\frmCauHinhHeThong.Designer.cs">
+      <DependentUpon>frmCauHinhHeThong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presenation\frmInfoVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presenation\frmInfoVersion.designer.cs">
+      <DependentUpon>frmInfoVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presenation\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presenation\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presenation\frmRaSoatThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presenation\frmRaSoatThongTin.Designer.cs">
+      <DependentUpon>frmRaSoatThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\CauHinhHeThong.cs" />
+    <Compile Include="Utils\CommonReadXml.cs" />
+    <Compile Include="Utils\CommonUtils.cs" />
+    <Compile Include="Utils\DecryptEncrypt.cs" />
+    <Compile Include="Utils\FileIO.cs" />
+    <Compile Include="Mapping\IMappingEntities.cs" />
+    <EmbeddedResource Include="Presenation\frmCauHinhHeThong.resx">
+      <DependentUpon>frmCauHinhHeThong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presenation\frmInfoVersion.resx">
+      <DependentUpon>frmInfoVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presenation\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presenation\frmRaSoatThongTin.resx">
+      <DependentUpon>frmRaSoatThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_add1-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_gtk-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16t_first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24_cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24_Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24_Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24Help book 3d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chon.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClearForm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-icon16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Draw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit program.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExportXML.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\get message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go First.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go First1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-close-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-hover-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-inmalo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-nhaplai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-paaue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlgplx-qt-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlgplx-qt-grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlin-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlin-grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlnk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-qlphoihong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-quantri-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-quantri-grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-search-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-tiepnhan-trakq-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-tiepnhan-trakq-grey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgBia.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgBia2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgTrangCaNhan.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MayAnh48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_playback_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\miximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhaplai.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quanlygplxqt.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quanlyin.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quantrihethong.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scanner16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_button_hover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Send message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings-icon32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sound_Volumn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Take photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiepnhanketqua.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timkiem.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\To excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volumm down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volumn up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system_help.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Viettel.ReadJP2\Viettel.ReadJP2.csproj">
+      <Project>{fa8fbb62-ea7c-4b1d-8ce4-e635019454e0}</Project>
+      <Name>Viettel.ReadJP2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.CHINHANH.DataAccess\VT.VPDK.CHINHANH.DataAccess.csproj">
+      <Project>{3587984c-e845-486f-ad6e-33787448e875}</Project>
+      <Name>VT.VPDK.CHINHANH.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.CHINHANH\VT.VPDK.CHINHANH.csproj">
+      <Project>{de684110-3b4e-4bd9-86c8-63568aeb8e38}</Project>
+      <Name>VT.VPDK.CHINHANH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.DBConvert\VT.VPDK.DBConvert.csproj">
+      <Project>{abef3894-ed29-4035-8281-f51d76fe4222}</Project>
+      <Name>VT.VPDK.DBConvert</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.DBMapping\VT.VPDK.DBMapping.csproj">
+      <Project>{54b72897-5d9a-4aed-bcc7-656b3dcbfec6}</Project>
+      <Name>VT.VPDK.DBMapping</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.SOGTVT.DataAccess\VT.VPDK.SOGTVT.DataAccess.csproj">
+      <Project>{38ce3c3c-3e3a-47c8-9c96-004914340153}</Project>
+      <Name>VT.VPDK.SOGTVT.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.SOGTVT\VT.VPDK.SOGTVT.csproj">
+      <Project>{f7642046-07f3-44c2-b0de-06873746d9c1}</Project>
+      <Name>VT.VPDK.SOGTVT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vdi_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

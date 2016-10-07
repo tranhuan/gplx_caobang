@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38CE3C3C-3E3A-47C8-9C96-004914340153}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VT.VPDK.SOGTVT.DataAccess</RootNamespace>
+    <AssemblyName>VT.VPDK.SOGTVT.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\..\..\EntitesFramework45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\..\EntitesFramework45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContextExtensions.cs" />
+    <Compile Include="EFRepository.cs" />
+    <Compile Include="IRepository.cs" />
+    <Compile Include="ITransaction.cs" />
+    <Compile Include="IWorkSoGTVT.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\DM_DonViGTVTRepository.cs" />
+    <Compile Include="Repository\DM_DVHCRepository.cs" />
+    <Compile Include="Repository\NguoiLXHS_GiayToRepository.cs" />
+    <Compile Include="Repository\NguoiLXRepository.cs" />
+    <Compile Include="Repository\NguoiLX_HoSoRepository.cs" />
+    <Compile Include="Repository\NguoiLX_Hoso_DichVuRepository.cs" />
+    <Compile Include="Repository\QTHT_ThamSoHTRepository.cs" />
+    <Compile Include="Transaction.cs" />
+    <Compile Include="WorkSoGTVT.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VT.VPDK.DBMapping\VT.VPDK.DBMapping.csproj">
+      <Project>{54b72897-5d9a-4aed-bcc7-656b3dcbfec6}</Project>
+      <Name>VT.VPDK.DBMapping</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VT.VPDK.SOGTVT\VT.VPDK.SOGTVT.csproj">
+      <Project>{f7642046-07f3-44c2-b0de-06873746d9c1}</Project>
+      <Name>VT.VPDK.SOGTVT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
